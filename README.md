@@ -15,3 +15,9 @@ Ken Perlin https://mrl.nyu.edu/~perlin/noise/:
 
 Also, thank You to TurtleYAY for helping me test it:
 https://www.youtube.com/channel/UCLuzQmQEHtc90gZCFFJW5OQ
+
+Check out:
+gats.io
+takepoint.io
+surviv.io
+diep.io
